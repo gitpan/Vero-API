@@ -36,4 +36,4 @@ resources:
   bugtracker: https://github.com/carloslima/vero-api-pm/issues
   homepage: https://github.com/carloslima/vero-api-pm
   repository: https://github.com/carloslima/vero-api-pm.git
-version: v0.1.0
+version: v0.1.1
